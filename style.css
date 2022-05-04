@@ -117,3 +117,22 @@ body {
 .fab {
     line-height: 50px;
 }
+
+.reach-me-item {
+    font-size: 60px;
+    position: relative;
+    left: 0px;
+    top: 700px;
+    display: inline-block;
+    transition: all ease-in-out;
+}
+.reach-me-item a {
+    color: #fff;
+    position: relative;
+    left: 0;
+    text-decoration: none;
+}
+
+.reach-me-item:hover{
+    color: #b9b9b9;
+}
